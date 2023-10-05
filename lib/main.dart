@@ -160,10 +160,14 @@ class HeroSection extends StatelessWidget {
       height: 300,
       width: double.infinity,
       decoration: const BoxDecoration(
-        image: DecorationImage(
-          image: AssetImage('hero_image.jpg'),
-          fit: BoxFit.cover,
-        ),
+          gradient: LinearGradient(
+            colors: [
+              Color.fromARGB(255, 45,51,138),
+              Color.fromARGB(255, 0,174,239),
+            ],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          )
       ),
       child: const Center(
         child: Text(
