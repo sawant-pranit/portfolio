@@ -13,13 +13,13 @@ class CombineSubtitleText extends StatelessWidget {
       children: [
         const Responsive(
           desktop: AnimatedSubtitleText(
-              start: 30, end: 40, text: 'Flutter '),
+              start: 30, end: 40, text: 'Lead Mobile '),
           largeMobile: AnimatedSubtitleText(
-              start: 30, end: 25, text: 'Flutter '),
+              start: 30, end: 25, text: 'Lead Mobile '),
           mobile: AnimatedSubtitleText(
-              start: 25, end: 20, text: 'Flutter '),
+              start: 25, end: 20, text: 'Lead Mobile '),
           tablet: AnimatedSubtitleText(
-              start: 40, end: 30, text: 'Flutter '),
+              start: 40, end: 30, text: 'Lead Mobile '),
         ),
         (kIsWeb && Responsive.isLargeMobile(context)
             ? const Responsive(
