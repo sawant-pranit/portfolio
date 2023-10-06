@@ -17,5 +17,7 @@ class Strings {
   technologies like Ktor and Spring Boot, indicating a burgeoning aptitude for 
   server-side development and API integration.""";
 
+  static const String linkedinProfile = 'https://www.linkedin.com/in/pranit-sawant-06a35057/';
 
+  static const String githubProfile = 'https://github.com/sawant-pranit';
 }
