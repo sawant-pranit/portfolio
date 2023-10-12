@@ -8,10 +8,10 @@ class Project {
 
 List<Project> projectList = [
   Project(
-    'Coffee Application',
-    'Presenting "Coffee" - a Flutter UI application that invites you to indulge in a delightful coffee adventure. Immerse yourself in the world of rich aroma and flavor as you browse through an exquisite selection of specialty coffees. With a user-friendly interface, exploring different blends and discovering their unique details becomes a delightful experience.',
-    'assets/images/coffee.png',
-    'https://github.com/Hamad-Anwar/Coffe-Shop-Beautifull-UI',
+    'TERPS',
+    'The TERPS application resets a USB DPS8000/8100 sensor back to factory default settings and displays the pressure readings from the sensor. If the sensor is a barometric reference, then avionics parameters (QFE, QNH, QFF, MSL Altitude) are also computed and displayed.',
+    'images/terps.png',
+    'https://play.google.com/store/apps/details?id=com.bakerhughes.usbterps&hl=en-IN',
   ),
   Project(
     'Car Controller Application UI',
