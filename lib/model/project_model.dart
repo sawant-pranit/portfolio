@@ -14,10 +14,10 @@ List<Project> projectList = [
     'https://play.google.com/store/apps/details?id=com.bakerhughes.usbterps&hl=en-IN',
   ),
   Project(
-    'Car Controller Application UI',
-    'Car Control Dashboard is a user-friendly mobile application built using Flutter and powered by GetX for efficient state management. Enjoy a modern and intuitive design that adapts to various screen sizes, Interact with dynamic car controls, including speed, steering, and temperature. Realistic animations enhance the visual appeal, making it feel like you are controlling a real car!',
-    'assets/images/car.png',
-    'https://github.com/Hamad-Anwar/Car-Controller-Getx-Flutter',
+    'Wellthy Care',
+    'Its a personal 24/7 health coach to beat chronic illness. Its a MVVM based native kotlin application which uses HILT for dependency injection and Realm for mobile database.',
+    'images/wellthy.png',
+    'https://play.google.com/store/search?q=wellthy+care+app&c=apps',
   ),
   Project(
       'Neumorphic Clockify',
