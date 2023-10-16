@@ -20,11 +20,6 @@ List<Project> projectList = [
     'https://play.google.com/store/search?q=wellthy+care+app&c=apps',
   ),
   Project(
-      'Neumorphic Clockify',
-      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
-      'assets/images/alarm.jpg',
-      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
-  Project(
       'Loner',
       'CUI AIDER is an extraordinary application that brings together augmented reality (AR), a robust student portal, intuitive class management, and a comprehensive GPA system, providing an all-encompassing solution for students.Using AR technology, CUI AIDER offers an immersive experience, allowing users to explore the complete university campus virtually. Through AR, students can visualize buildings, navigate with interactive directions, and gain a better understanding of their surroundings.',
       'images/loner.png',
@@ -55,4 +50,29 @@ List<Project> projectList = [
     'images/gutrgoo.png',
     'https://github.com/Hamad-Anwar/Doctor-Appointment-Application-UI'
   ),
+  Project(
+      'My Card',
+      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'images/my_card.png',
+      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+  Project(
+      'Flash Chat',
+      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'images/flash_chat.png',
+      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+  Project(
+      'H4XOR News',
+      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'images/H4XOR_news.png',
+      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+  Project(
+      'Clima',
+      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'images/clima.png',
+      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+  Project(
+      'Dice',
+      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'images/dice_swift_ui.png',
+      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
 ];
