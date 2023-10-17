@@ -86,4 +86,14 @@ List<Project> projectList = [
       'You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!',
       'images/dice_swift_ui.png',
       'https://github.com/sawant-pranit/Dicee-iOS13.git'),
+  Project(
+      'Tipsy',
+      'Its a simple tip calculator application, developed in swift.',
+      'images/tipsy.png',
+      'https://github.com/sawant-pranit/Tipsy-iOS13.git'),
+  Project(
+      'BMI Calculator',
+      'Based on the user’s weight and height it will calculate their body mass and give a piece of health advice depending on whether if they have eaten too many pies or if they need to eat more pies.',
+      'images/tipsy.png',
+      'https://github.com/sawant-pranit/BMI-Calculator-iOS13.git'),
 ];
