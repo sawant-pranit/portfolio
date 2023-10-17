@@ -73,9 +73,9 @@ List<Project> projectList = [
       'https://github.com/sawant-pranit/Flash-Chat-iOS13.git'),
   Project(
       'H4XOR News',
-      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'Simple Hacker News ios application designed using swift ui.',
       'images/H4XOR_news.png',
-      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+      'https://github.com/sawant-pranit/H4X0R-News.git'),
   Project(
       'Clima',
       'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
