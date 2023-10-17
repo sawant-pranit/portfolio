@@ -78,12 +78,12 @@ List<Project> projectList = [
       'https://github.com/sawant-pranit/H4X0R-News.git'),
   Project(
       'Clima',
-      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'Its a dark-mode enabled weather app. You\'ll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.',
       'images/clima.png',
-      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+      'https://github.com/sawant-pranit/Clima-iOS13.git'),
   Project(
       'Dice',
-      'Neumorphic TimeKit is an open-source project that brings together the elegance of a beautifully designed alarm system, an analog clock with a neumorphic touch, and a feature-rich stopwatch. Whether you\'re looking for a functional alarm tool, a stylish desktop clock, or a precise stopwatch, TimeKit has you covered.',
+      'You can make the die roll at the press of a button or by shaking your phone. With this app in your pocket, you’ll be fully set up to settle any score on the go!',
       'images/dice_swift_ui.png',
-      'https://github.com/Hamad-Anwar/Neumorphic-Analog-Clockify'),
+      'https://github.com/sawant-pranit/Dicee-iOS13.git'),
 ];
