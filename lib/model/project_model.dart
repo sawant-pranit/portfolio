@@ -59,7 +59,7 @@ List<Project> projectList = [
     'Gutrgoo',
     'The newest Social Media platform, targeting micro contenting. Responsible for MVP design pattern with Repository pattern, Websocket client side implementation.',
     'images/gutrgoo.png',
-    'https://github.com/Hamad-Anwar/Doctor-Appointment-Application-UI'
+    'https://github.com/sawant-pranit'
   ),
   Project(
       'My Card',
