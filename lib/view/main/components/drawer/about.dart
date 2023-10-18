@@ -16,12 +16,18 @@ class About extends StatelessWidget {
             const Spacer(),
             Text(Strings.name,style: Theme.of(context).textTheme.titleSmall,),
             const SizedBox(height: defaultPadding/4,),
-            const Text(Strings.shortDescription,
-              textAlign: TextAlign.center,
-              style: TextStyle(
-                  fontWeight: FontWeight.w200,
-                  height: 1.5
-              ),),
+            const SizedBox(
+              child: Padding(padding: EdgeInsets.only(left: 16.0),
+              child: Text(Strings.shortDescription,
+                maxLines: 4,
+                softWrap: false,
+                overflow: TextOverflow.fade,
+                textAlign: TextAlign.start,
+                style: TextStyle(
+                    fontWeight: FontWeight.w200,
+                    height: 1.5
+                ),),),
+            ) ,
             const Spacer(flex: 2,),
           ],
         ),

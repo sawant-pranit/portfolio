@@ -16,89 +16,38 @@ class CertificateModel {
 
 List<CertificateModel> certificateList = [
   CertificateModel(
-    name: 'Getting started with Flutter Development',
-    organization: 'Coursera',
-    date: 'AUG 2023',
-    skills: 'Flutter . Dart',
-    credential:  'https://www.coursera.org/account/accomplishments/certificate/HQ4LFHSF4LKZ',
+    name: 'Telecommunications Industry Jumpstart',
+    organization: 'IBM',
+    date: 'JUL 2021',
+    skills: 'Industry Expertise, Industry Financials',
+    credential:  'https://www.credly.com/badges/f4b5f32e-95c9-4a15-b7fb-33ac18fcff65/public_url',
   ),
   CertificateModel(
-    name: 'Flutter Essential Training: Build for Multiple Platforms',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . iOS Development . Android Development',
-    credential:  'https://www.linkedin.com/learning/certificates/450fc4e2f495726aea50a067caf586869ccf0cb92ebcc5a4c7b5648a95754a8f',
+    name: 'Certified SAFe® 5 Practitioner',
+    organization: 'Scaled Agile Inc',
+    date: 'MAR 2023',
+    skills: 'DevOps, Enterprise Agility, Kanban, Scrum',
+    credential:  'https://www.credly.com/badges/120e8bb3-153f-45e2-99c0-99a8dcf268d5/public_url',
   ),
   CertificateModel(
-    name: 'Complete Dart Learning',
-    organization: 'Udemy',
-    date: 'JUN 2023',
-    skills: 'Flutter . Dart . Programming',
-    credential:  'https://www.udemy.com/certificate/UC-5b01c756-0d20-4342-94e6-9d5860d1c95e/',
+    name: 'AWS Certified Cloud Practitioner',
+    organization: 'AWS Training and Certification',
+    date: 'DEC 2022',
+    skills: 'AWS, AWS Cloud, Cloud Services',
+    credential:  'https://www.credly.com/badges/999a329d-a9a8-4f48-9a53-bbbaea02cdc6/public_url',
   ),
   CertificateModel(
-    name: 'Flutter REST Movie App',
-    organization: 'Udemy',
-    date: 'AUG 2023',
-    skills: 'Flutter . Rest API\'s . Cloud',
-    credential:  'https://www.udemy.com/certificate/UC-22efc7ca-3df5-4f26-8025-4a1bd2672f19/',
+    name: 'Professional Scrum Master™ I (PSM I)',
+    organization: 'Scrum.org',
+    date: 'AUG 2022',
+    skills: 'Agile, PSM, Scrum, Scrum Master',
+    credential:  'https://www.credly.com/badges/b8f6c831-5ab7-4935-8c94-3f84054250b0/public_url',
   ),
   CertificateModel(
-    name: 'Modularizing and Organizing Flutter Code',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . Clean Architecture',
-    credential:  'https://www.linkedin.com/learning/certificates/686276fa42629d4f1291da79ea46bfde0222954b60297a2e728c770768f23407',
+    name: 'IBM Agile Explorer',
+    organization: 'IBM',
+    date: 'JUL 2022',
+    skills: 'Agile, Agile Kanban, Agile Operations',
+    credential:  'https://www.credly.com/badges/35dd6dbc-2cd8-4e18-9153-71d392c33c1f/public_url',
   ),
-  CertificateModel(
-    name: 'Powering Your App with Live Web Data',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . Dart . Firebase . API\'s',
-    credential:  'https://www.linkedin.com/learning/certificates/643f05463ae529f24bd9ea66a6ead9a20469bdb875a9ddda048c698eda3ee7c1',
-  ),
-  CertificateModel(
-    name: 'Firebase Cloud Firestore',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Flutter . Dart . Firebase . FireStore',
-    credential:  'https://www.linkedin.com/learning/certificates/8f8be25531d2bcdbab1972482150277f9a239a13ba4d314c0574638bf28d07d2',
-  ),
-  CertificateModel(
-    name: 'Android App Security',
-    organization: 'LinkedIn',
-    date: 'JUL 2023',
-    skills: 'Pentesting . Android App',
-    credential:  'https://www.linkedin.com/learning/certificates/1c6581b35d06edfbd6275d09e84b068e813880bf7d217b703716962d7aca3518',
-  ),
-  CertificateModel(
-    name: 'Foundations of Cybersecurity',
-    organization: 'Grow with Google on Coursera',
-    date: 'JUL 2023',
-    skills: 'Ethical Hacking . Linux . Cyber Security ',
-    credential:  'https://coursera.org/share/67e5cb0dd7c478f1d7ec81079c3a40b8',
-  ),
-  CertificateModel(
-    name: 'HTML, CSS, and Javascript for Web Developers',
-    organization: 'JUL Coursera',
-    date: 'JUL 2023',
-    skills: 'HTML . CSS . JS . Web Development',
-    credential:  'https://coursera.org/share/67e5cb0dd7c478f1d7ec81079c3a40b8',
-  ),
-  CertificateModel(
-    name: 'Network Defense Essentials (NDE)',
-    organization: 'EC-Council',
-    date: 'JUL 2023',
-    skills: 'Cyber Security . Networking ',
-    credential:  'https://codered.eccouncil.org/certificate/43a2d2a7-40ed-4230-9e65-a9aa0935e651?logged=false',
-  ),
-
-
-
-
-
-
-
-
-
 ];

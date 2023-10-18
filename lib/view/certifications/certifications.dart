@@ -26,7 +26,7 @@ class Certifications extends StatelessWidget {
           Expanded(
               child: Responsive(
                   desktop: CertificateGrid(crossAxisCount: 3,ratio: 1.5,),
-                  extraLargeScreen: CertificateGrid(crossAxisCount: 4,ratio: 1.6),
+                  extraLargeScreen: CertificateGrid(crossAxisCount: 4,ratio: 1.5),
                   largeMobile: CertificateGrid(crossAxisCount: 1,ratio: 1.8),
                   mobile: CertificateGrid(crossAxisCount: 1,ratio: 1.4),
                   tablet: CertificateGrid(ratio: 1.7,crossAxisCount: 2,)))
