@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
           bodyText2: const TextStyle(color: bodyTextColor),
         ),
       ),
-      home: const SplashView()/*MyHomePage(title: 'Flutter Demo Home Page')*/,
+      home: const SplashView(),
     );
   }
 }
