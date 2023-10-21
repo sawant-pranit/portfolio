@@ -20,9 +20,9 @@ class About extends StatelessWidget {
               child: Padding(padding: EdgeInsets.only(left: 16.0),
               child: Text(Strings.shortDescription,
                 maxLines: 4,
-                softWrap: false,
+                softWrap: true,
                 overflow: TextOverflow.fade,
-                textAlign: TextAlign.start,
+                textAlign: TextAlign.center,
                 style: TextStyle(
                     fontWeight: FontWeight.w200,
                     height: 1.5
