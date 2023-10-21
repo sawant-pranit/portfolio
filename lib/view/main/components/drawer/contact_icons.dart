@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:portfolio/res/constants.dart';
 
 import '../../../../res/constants.dart';
 
@@ -14,8 +15,8 @@ class ContactIcon extends StatelessWidget {
       child: Row(
         children: [
           const Spacer(),
-          IconButton(onPressed: () {launchUrl(Uri.parse('https://linkedin.com/in/hamad-anwar'));}, icon: SvgPicture.asset('assets/icons/linkedin.svg')),
-          IconButton(onPressed: () {launchUrl(Uri.parse('https://github.com/hamad-anwar'));}, icon: SvgPicture.asset('assets/icons/github.svg')),
+          IconButton(onPressed: () {launchUrl(Uri.parse(Strings.linkedinProfile));}, icon: SvgPicture.asset('assets/icons/linkedin.svg')),
+          IconButton(onPressed: () {launchUrl(Uri.parse(Strings.githubProfile));}, icon: SvgPicture.asset('assets/icons/github.svg')),
           const Spacer(),
         ],
       ),
